@@ -1,0 +1,16 @@
+{
+  "name": "instagram-parser-puppeteer",
+  "version": "1.0.0",
+  "description": "Parse instagram posts for required profile using puppeteer.",
+  "main": "index.js",
+  "author": "Rafael Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.0.0",
+    "puppeteer-core": "^10.0.0",
+    "user-agents": "^1.0.681"
+  },
+  "devDependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
